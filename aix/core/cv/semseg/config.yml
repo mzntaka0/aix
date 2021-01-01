@@ -1,0 +1,7 @@
+Module:
+  name: 'semseg'
+  interface:
+    input: 'image'
+    output: 'image'
+  repo: 'gocr'
+

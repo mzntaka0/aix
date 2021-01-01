@@ -1,0 +1,7 @@
+Module:
+  name: 'ocr'
+  interface:
+    input: 'image'
+    output: 'json'
+  repo: 'gocr'
+
